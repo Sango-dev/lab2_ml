@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lb2"
+name = "lab2_ml"
 description = "Training pipeline: Flower-102 dataset"
 authors = ["Oleksandr Klymenchuk <klimencuks@gmail.com>"]
 version = "0.01"
